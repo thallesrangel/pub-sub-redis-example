@@ -1,6 +1,7 @@
 # PUB/SUB example with REDIS - Docker/Docker Composer
 
 Keep two CLIs open to see the magic happen
+[Tutorial](https://www.youtube.com/watch?v=-KH5w-cUdhw)
 
 ### Up containers
 ```
